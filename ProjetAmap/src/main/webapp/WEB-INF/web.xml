@@ -2,7 +2,7 @@
 <web-app>
     <filter>
         <filter-name>EncodingFilter</filter-name>
-        <filter-class>fr.jbl.EncodingFilter</filter-class>
+        <filter-class>fr.jbl.amap.EncodingFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>EncodingFilter</filter-name>
