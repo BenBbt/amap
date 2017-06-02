@@ -77,3 +77,14 @@ CREATE TABLE `panier` (
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+
+INSERT INTO `amap`.`legume` (`name`) VALUES ('carotte');
+INSERT INTO `amap`.`legume` (`name`) VALUES ('tomate');
+INSERT INTO `amap`.`legume` (`name`) VALUES ('salade');
+INSERT INTO `amap`.`legume` (`name`) VALUES ('blette');
+INSERT INTO `amap`.`legume` (`name`) VALUES ('radis');
+INSERT INTO `amap`.`legume` (`name`) VALUES ('pomme de terre');
+INSERT INTO `amap`.`panier` (`size`) VALUES ('p');
+INSERT INTO `amap`.`panier` (`size`) VALUES ('m');
+INSERT INTO `amap`.`panier` (`size`) VALUES ('g');
